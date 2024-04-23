@@ -1,36 +1,19 @@
 
-Lorem Andarta en fue capude ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Using an alt account because of people trace this back to me my reelection chances might get hurt.
 
-hello back
+I (74M) am finishing up my first term as President of the United States of America. Let me tell you, 
+America is an incredible country, probably one of the best countries in the whole nation. As my reelection comes 
+closer and closer, my opponent Sleepy Joe has been leading in approval ratings, and I began to get worried. 
+Let me tell you, I am the best at being worried. Just ask anybody in my administration, I get worried like 
+no other president. Anyways, I was considering putting Sleepy Joe to sleep for good, which I think is a service 
+not only to his family, but also the nation as a whole. I was going to ask my good pal Putin to borrow some of 
+that poison he’s using to silence the libtards in his country. So Reddit, am I the asshole?
 
-Hellooo
-function lorem(ipsum, dolor = 1) {
-  const sit = ipsum == null ? 0 : ipsum.sit;
-  dolor = sit - amet(dolor);
-  return sit ? consectetur(ipsum, 0, dolor < 0 ? 0 : dolor) : [];
-}
-function adipiscing(...elit) {
-  if (!elit.sit) {
-    return [];
-  }
-  const sed = elit[0];
-  return eiusmod.tempor(sed) ? sed : [sed];
-}
-function incididunt(ipsum, ut = 1) {
-  ut = labore.et(amet(ut), 0);
-  const sit = ipsum == null ? 0 : ipsum.sit;
-  if (!sit || ut < 1) {
-    return [];
-  }
-  let dolore = 0;
-  let magna = 0;
-  const aliqua = new eiusmod(labore.ut(sit / ut));
-  while (dolore < sit) {
-    aliqua[magna++] = consectetur(ipsum, dolore, (dolore += ut));
-  }
-  return aliqua;
-}
+EDIT: I’m not Donald Trump.
 
-HuHu
+EDIT 2: Stop saying I’m Donald Trump.
+
+EDIT 3: Bitches I got the nuclear launch codes keep testing me and you can say bye bye to the Caribbean’s.
+
+EDIT 4: Adios Bahamas.
